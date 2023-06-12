@@ -1,0 +1,13 @@
+{
+  "name": "csvtojson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/taher267/csvTojson.git",
+  "author": "ABU TAHER <abutaher267@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  }
+}
